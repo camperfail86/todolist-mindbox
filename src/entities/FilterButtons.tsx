@@ -18,7 +18,6 @@ export const FilterTaskButtons = (props: PropsType) => {
         variant={props.filter === "all" ? "outlined" : "text"}
         name="All"
         color="secondary"
-        // callback={()=>{}}
         callback={()=>changeTodolistFilter('all')}
       />
       <ButtonFilter
