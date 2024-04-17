@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/todolist-mindbox/static/css/main.b31d1d99.css",
+    "main.js": "/todolist-mindbox/static/js/main.e3cd8e4e.js",
+    "index.html": "/todolist-mindbox/index.html",
+    "main.b31d1d99.css.map": "/todolist-mindbox/static/css/main.b31d1d99.css.map",
+    "main.e3cd8e4e.js.map": "/todolist-mindbox/static/js/main.e3cd8e4e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b31d1d99.css",
+    "static/js/main.e3cd8e4e.js"
+  ]
+}
